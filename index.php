@@ -1,1 +1,1 @@
-Generated content (Add getstat script in crobjob)
+Generated content (Add getstat job in crobtab)
